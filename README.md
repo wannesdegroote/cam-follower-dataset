@@ -5,10 +5,10 @@
 ## Lab setup 
 The trajectory data is sampled at 2000 Hz by means of a rotary encoder (1000 lines) and a linear encoder (resolution=2µm). The setup is driven by a DC motor of 60 W,  which is fed by a (changeable) constant voltage V. The mass m of the follower can be changed by adding additional disks.
 
-![setup](https://github.ugent.be/wkdgroot/Cam-follower-mechanism---Dataset/blob/master/Figures/setup.JPG)
+![setup](https://github.com/wannesdegroote/cam-follower-dataset/tree/main/Figures/setup.JPG)
 
 The setup is equipped with 20 interchangeable cams. Each cam is determined by its maximum displacement H and the skewness angle β.
-![cams](https://github.ugent.be/wkdgroot/Cam-follower-mechanism---Dataset/blob/master/Figures/cams.JPG)
+![cams](https://github.com/wannesdegroote/cam-follower-dataset/tree/main/Figures/cams.JPG)
 
 ## Data description
 We used 20 different cams, 4 different masses and 20 different voltages. This leads to a full-factorial design of 1600 experiments. 
