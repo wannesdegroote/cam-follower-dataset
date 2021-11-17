@@ -39,4 +39,12 @@ y| displacement: directly measured by the linear encoder |
 h| cam displacement: directly measured by the linear encoder (=nominal situation without detachment) ||
 ϵ| detachment variable: derived via ϵ= y-h and some post-processing to eliminate sensor noise 
 
+## References
+Further information about the datasets can be found in following research articles:
+
+* De Groote, W., Van Hoecke, S., & Crevecoeur, G. (2021). Physics-Based Neural Network Models for Prediction of Cam-Follower Dynamics Beyond Nominal Operations. IEEE/ASME Transactions on Mechatronics.
+   * DOI: https://doi.org/10.1109/TMECH.2021.3101420
+
+* De Groote, W., Van Hoecke, S., & Crevecoeur, G. (2022). Prediction of follower jumps in cam-follower mechanisms: The benefit of using physics-inspired features in recurrent neural networks. Mechanical Systems and Signal Processing, 166, 108453.
+   * DOI: https://doi.org/10.1016/j.ymssp.2021.108453
 
